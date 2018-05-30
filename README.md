@@ -1,0 +1,2 @@
+# StateCalc
+State pattern
